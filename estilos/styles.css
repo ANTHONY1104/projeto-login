@@ -56,3 +56,16 @@ section#login > div#formulario {
     flex-direction: column;
     gap: 15px;
 }
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+   
+}
+div#formulario > h1 {
+    font-size: 2em;
+}
+
+div#formulario > p {
+   font-size: 1.2em;
+}
